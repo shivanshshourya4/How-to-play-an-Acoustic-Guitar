@@ -1,0 +1,56 @@
+#nav1{
+    margin: 0 auto;
+    text-align: center;
+}
+
+#ul_n{
+    height: 45px;
+    padding-top: 10px;
+    text-align: center;
+    padding-left: 150px;
+}
+
+#a_app{
+    text-align: center;
+}
+
+#a_app2{
+    display: inline-block;
+}
+
+#a_app3{
+    display: inline-block;
+
+}
+
+nav {
+position: sticky;
+  top: 0px;
+  background-color: #FF8F45;
+}
+
+nav a {
+    color:black;
+    font-size: 22;
+}
+
+nav a:hover{
+    text-decoration: underline;
+    color: aqua;
+    font-weight: bold;
+    
+}
+
+nav{
+    background-color: white; 
+    text-align: center; 
+    position: sticky;
+     text-decoration: underline;
+     padding-bottom: 30px;
+}
+
+
+
+
+
+
